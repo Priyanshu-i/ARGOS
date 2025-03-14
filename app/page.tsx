@@ -9,7 +9,7 @@ import { APIList } from "@/components/api-list"
 import { CreateAPIForm } from "@/components/create-api-form"
 
 export const metadata: Metadata = {
-  title: "Multi-API AI System",
+  title: "ARGOS | Augmented, Reliable Guidance & Omniscient System",
   description: "A generalized system for managing local and remote LLMs with two-way communication",
 }
 

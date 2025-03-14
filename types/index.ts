@@ -33,7 +33,7 @@ export interface Message {
 
 export interface LLMConfig {
   provider: LLMProvider
-  model: string
+  model: "smollm2:1.7b"
   endpoint?: string
   apiKey?: string
   temperature?: number
